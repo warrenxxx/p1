@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="a1:Web exploded">
-    <output-path>$PROJECT_DIR$/../a1/out/artifacts/a1_Web_exploded</output-path>
+    <output-path>$PROJECT_DIR$/classes/artifacts/a1_Web_exploded</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="a1/web/Web" />
       <element id="directory" name="WEB-INF">
